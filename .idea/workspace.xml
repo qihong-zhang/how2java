@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a44555f-c640-465f-8193-63643fa622ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +38,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="qihong-zhang" />
         <option value="https://github.com/qihong-zhang/how2java.git" />
       </list>
     </option>
@@ -125,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564920373711</updated>
-      <workItem from="1564920376898" duration="1032000" />
+      <workItem from="1564920376898" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="zhang qi hong test">
       <created>1564920835338</created>
@@ -148,11 +149,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564921279255</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sadsadfasdfsadfsdafsdafasdfasdfsadfasdfasd">
+      <created>1564921515093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564921515093</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1032000" />
+    <option name="totallyTimeSpent" value="1150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="984" y="0" width="943" height="1087" extended-state="0" />
@@ -204,7 +212,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zhang qi hong test" />
-    <option name="LAST_COMMIT_MESSAGE" value="zhang qi hong test" />
+    <MESSAGE value="sadsadfasdfsadfsdafsdafasdfasdfsadfasdfasd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sadsadfasdfsadfsdafsdafasdfasdfsadfasdfasd" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloGit.java">
